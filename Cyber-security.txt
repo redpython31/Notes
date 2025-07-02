@@ -1,0 +1,109 @@
+.
+
+🛡️ Cybersecurity Beginner to Intermediate Roadmap (90 Days)
+🗓️ Phase 1: Foundation (Day 1–30)
+📌 Goal: Linux, Networking, Python (basic)
+
+🔹 Week 1–2: Linux Mastery (Day 1–14)
+Day 1–2: Linux file system + terminal basics (cd, ls, pwd, mkdir, rm)
+
+Day 3–4: Permissions (chmod, chown), users, groups
+
+Day 5–6: Process management (ps, top, htop, kill)
+
+Day 7–8: Networking tools (ifconfig/ip, ping, netstat, traceroute)
+
+Day 9–10: Package management (apt/yum), grep, sed, awk basics
+
+Day 11–14: Practice everything (TryHackMe: Linux Fundamentals)
+
+🔹 Week 3–4: Python for Cybersecurity (Day 15–30)
+Day 15–17: Variables, loops, functions, file handling
+
+Day 18–20: OS, subprocess, requests, regex modules
+
+Day 21–23: Socket programming basics (simple port scanner)
+
+Day 24–27: Create 3 small projects:
+
+Log reader script
+
+File scanner script
+
+Directory brute force
+
+Day 28–30: Revise + practice on Replit or your system
+
+🗓️ Phase 2: Core Cybersecurity (Day 31–60)
+📌 Goal: Web security + Bug bounty basics
+
+🔹 Week 5–6: Web Application Hacking
+Day 31–33: HTTP basics, DNS, cookies, headers
+
+Day 34–36: OWASP Top 10 theory (XSS, SQLi, CSRF, IDOR, etc.)
+
+Day 37–40: Burp Suite intro + hands-on (install Community Edition)
+
+Day 41–44: Practice on PortSwigger Labs
+
+Day 45–47: Simple XSS, SQLi manually test karna sikh
+
+Day 48–49: Wordlist & Dirbuster tools
+
+Day 50–52: Nmap basics + practice
+
+🔹 Week 7–8: Bug Bounty + Tools
+Day 53–55: Recon (What is subdomain enum, tools: assetfinder, amass)
+
+Day 56–58: Nuclei + Simple automation
+
+Day 59–60: Practice bug bounty writeups padho (hunt on hackerone)
+
+🗓️ Phase 3: Practical Skills + Portfolio (Day 61–90)
+📌 Goal: Practice & real-world skills building
+
+🔹 Week 9–10: CTF + Custom Tools
+Day 61–65: Start TryHackMe “Pre Security” path (if new) or “Jr. Penetration Tester” path
+
+Day 66–70: Make your own:
+
+Port scanner (Python)
+
+Subdomain finder
+
+Log analyzer
+
+🔹 Week 11–12: Final Practice + GitHub Portfolio
+Day 71–80: Solve minimum 10 rooms on TryHackMe
+
+Day 81–85: Create a GitHub repo:
+
+Push your scripts with README
+
+Day 86–90: Revise everything + note weak points
+
+✅ Daily Routine Suggestion (3 Hours Max)
+Time	Task
+1 hr	Video tutorial / reading
+1 hr	Hands-on / script writing
+1 hr	Notes + revision / lab solve
+
+🔧 Required Tools
+OS: Kali Linux / Ubuntu (VirtualBox)
+
+Editor: VS Code
+
+Sites: TryHackMe, PortSwigger, GitHub
+
+Browser Extension: Wappalyzer, HackTools
+
+🔚 Summary
+📅 Total Duration: 3 months
+
+🔥 Goal: Linux + Python + Web Hacking + Bug Bounty start
+
+🧠 Rule: Ek din me ek topic, bas usi pe focus
+
+📘 Track: Notes + GitHub me sab likh ke rakh
+
+
